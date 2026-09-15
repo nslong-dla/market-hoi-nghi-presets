@@ -1,0 +1,11 @@
+[
+  {
+    "id": "preset_mau_chuan_thue_2026",
+    "name": "Mẫu Chuẩn Ngành Thuế 2026 (Căn Giữa)",
+    "state": {
+      "theme": { "bgColor1": "#02081c", "bgColor2": "#071c3d", "bgColor3": "#0e346e", "accentColor": "#fbbf24", "accentColor2": "#38bdf8", "textSecondary": "#cbd5e1" },
+      "typography": { "mainTitleSize": 44, "titleColorMode": "gold3D", "titleLineHeight": 1.35, "subTitleSize": 22, "parentTitleSize": 18, "topicSize": 23, "infoSize": 19, "dividerWidth": 180, "logoSize": 95, "logoAlign": "center" },
+      "visibility": { "parent": true, "sub": true, "main": true, "topic": true, "infoCard": true, "divider": true, "logo": true, "qr": true }
+    }
+  }
+]
