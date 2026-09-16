@@ -1,1 +1,119 @@
-
+[
+  {
+    "id": "p_1789570030805",
+    "name": "TCS5- Đối thoại",
+    "state": {
+      "width": 1920,
+      "height": 1080,
+      "scale": 2,
+      "selectedLayer": "mainTitle",
+      "locks": {
+        "logo": false,
+        "parentTitle": false,
+        "subTitle": false,
+        "divider": false,
+        "mainTitle": false,
+        "topicTitle": true,
+        "footerCard": false
+      },
+      "visibility": {
+        "parent": true,
+        "sub": true,
+        "main": true,
+        "topic": true,
+        "infoCard": true,
+        "divider": true,
+        "logo": true,
+        "qr": true,
+        "topicTitle": false
+      },
+      "content": {
+        "parentTitle": "THUẾ TỈNH ĐẮK LẮK",
+        "subTitle": "THUẾ CƠ SỞ 5 TỈNH ĐẮK LẮK",
+        "mainTitle": "HỘI NGHỊ TẬP HUẤN CHÍNH SÁCH THUẾ MỚI VÀ ĐỐI THOẠI\n GIẢI ĐÁP VƯỚNG MẮC CHO NGƯỜI NỘP THUẾ LẦN II NĂM 2026",
+        "topicTitle": "Thuế tỉnh Đắk Lắk tổ chức Hội nghị nhằm Phổ biến chính sách thuế mới năm 2026 có hiệu lực thi hành từ ngày 01/7/2026 như: Luật Quản lý Thuế số 108/2025/QH15; Các văn bản về Nghị định Chính phủ và Thông tư của Bộ Tài chính; Hướng dẫn thi hành Luật Thuế TNCN; Tuyên truyền Chiến dịch Làm sạch MST - Tháo gỡ điểm nghẽn trong kinh doanh; Tuyên truyền nghĩa vụ cung cấp thông tin phục vụ mục đích trao đổi thông tin về thuế và xử phạt vi phạm hành chính.  Thuế cơ sở 5 tỉnh Đắk Lắk sẽ chủ trì đối thoại, giải đáp vướng mắc cho người nộp thuế trực tiếp trên địa bàn TCS5 quản lý",
+        "timeText": "21:44 | Ngày 16 Tháng 09 Năm 2026",
+        "locationText": "Trực tuyến & Trực tiếp",
+        "qrText": "https://www.youtube.com/@tinhocungdung.official?sub_confirmation=1",
+        "qrLabel": "QUÉT TÀI LIỆU HỘI NGHỊ"
+      },
+      "typography": {
+        "mainTitleSize": 48,
+        "titleColorMode": "whiteSolid",
+        "titleLineHeight": 1.35,
+        "mainTitleAlign": "center",
+        "subTitleSize": 22,
+        "parentTitleSize": 18,
+        "topicSize": 20,
+        "topicTitleAlign": "center",
+        "infoSize": 25,
+        "dividerWidth": 180,
+        "logoSize": 95,
+        "logoAlign": "center",
+        "parentTitleColor": "#cbd5e1",
+        "subTitleColor": "#ffffff",
+        "topicTitleColor": "#ffb700",
+        "footerCardColor": "#ffffff"
+      },
+      "offsets": {
+        "logo": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTitle": {
+          "x": 0,
+          "y": 0
+        },
+        "subTitle": {
+          "x": 0,
+          "y": 0
+        },
+        "divider": {
+          "x": 0,
+          "y": 0
+        },
+        "mainTitle": {
+          "x": 0,
+          "y": -23
+        },
+        "topicTitle": {
+          "x": 0,
+          "y": -54
+        },
+        "footerCard": {
+          "x": 0,
+          "y": -24
+        }
+      },
+      "fx": {
+        "horizon": true,
+        "beam": true,
+        "matrix": true,
+        "stardust": true,
+        "corners": true,
+        "intensity": 1
+      },
+      "theme": {
+        "name": "3. Đỏ Hồng Ngọc Đỉnh Cao",
+        "bgColor1": "#260207",
+        "bgColor2": "#590715",
+        "bgColor3": "#8c0f24",
+        "accentColor": "#fef08a",
+        "accentColor2": "#fb7185",
+        "textSecondary": "#fecdd3",
+        "key": "crimsonVibrant"
+      },
+      "settings": {
+        "magneticSnap": true,
+        "safeZoneMode": "none"
+      },
+      "live": {
+        "tickerEnabled": false,
+        "tickerText": "THÔNG BÁO: Kính mời các đại biểu quét mã QR để nhận văn kiện hội nghị trực tuyến.",
+        "tickerOffset": 0,
+        "countdownActive": false,
+        "countdownTarget": null
+      }
+    }
+  }
+]
