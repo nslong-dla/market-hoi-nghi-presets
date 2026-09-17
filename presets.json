@@ -231,5 +231,125 @@
         "countdownTarget": null
       }
     }
+  },
+  {
+    "id": "p_1789647031695",
+    "name": "HNTT-Tím",
+    "state": {
+      "width": 1920,
+      "height": 1080,
+      "scale": 2,
+      "selectedLayer": "footerCard",
+      "locks": {
+        "logo": false,
+        "parentTitle": false,
+        "subTitle": false,
+        "divider": false,
+        "mainTitle": false,
+        "topicTitle": false,
+        "footerCard": false
+      },
+      "visibility": {
+        "parent": true,
+        "sub": true,
+        "main": true,
+        "topic": true,
+        "infoCard": true,
+        "divider": false,
+        "logo": false,
+        "qr": true,
+        "mainTitle": true,
+        "footerCard": false,
+        "parentTitle": true,
+        "subTitle": true
+      },
+      "content": {
+        "parentTitle": "",
+        "subTitle": "",
+        "mainTitle": "Tập huấn phần mềm TaxOffice_V6 theo Công văn số 6827/CT-CĐS (17-18/9/2026)",
+        "topicTitle": "Ứng dụng TaxOffice trong Quản lý văn bản và điều hành công việc do Cục Thuế triển khai thống nhất trong toàn ngành; công chức, lãnh đạo của tất cả các đơn vị trong toàn ngành trực tiếp sử dụng, vì vậy Văn phòng đề xuất cho công chức toàn ngành tham dự tập huấn hướng dẫn sử dụng ứng dụng do Cục Thuế tổ chức; phòng DLRR và VP sẽ triển khai và không tập huấn lại, tập trung xử lý vướng mắc, hỗ trợ người dùng trong thời gian đầu sử dụng",
+        "timeText": "Ngày 17 Tháng 09 Năm 2026",
+        "locationText": "Trực tuyến ",
+        "qrText": "https://www.youtube.com/@tinhocungdung.official?sub_confirmation=1",
+        "qrLabel": "QUÉT TÀI LIỆU HỘI NGHỊ"
+      },
+      "typography": {
+        "mainTitleSize": 70,
+        "titleColorMode": "gold3D",
+        "titleLineHeight": 1.35,
+        "mainTitleAlign": "center",
+        "subTitleSize": 22,
+        "parentTitleSize": 18,
+        "topicSize": 20,
+        "topicTitleAlign": "center",
+        "infoSize": 28,
+        "dividerWidth": 180,
+        "logoSize": 95,
+        "logoAlign": "center",
+        "parentTitleColor": "#cbd5e1",
+        "subTitleColor": "#ffffff",
+        "topicTitleColor": "#ffffff",
+        "footerCardColor": "#ffffff"
+      },
+      "offsets": {
+        "logo": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTitle": {
+          "x": 0,
+          "y": 0
+        },
+        "subTitle": {
+          "x": 0,
+          "y": 0
+        },
+        "divider": {
+          "x": 0,
+          "y": 0
+        },
+        "mainTitle": {
+          "x": 9,
+          "y": -128
+        },
+        "topicTitle": {
+          "x": 0,
+          "y": -124
+        },
+        "footerCard": {
+          "x": 0,
+          "y": -21
+        }
+      },
+      "fx": {
+        "horizon": true,
+        "beam": true,
+        "matrix": true,
+        "stardust": true,
+        "corners": true,
+        "intensity": 1
+      },
+      "theme": {
+        "name": "5. Tím Hoàng Hôn Rạng Rỡ",
+        "bgColor1": "#140324",
+        "bgColor2": "#330857",
+        "bgColor3": "#56148a",
+        "accentColor": "#fde047",
+        "accentColor2": "#e879f9",
+        "textSecondary": "#e9d5ff",
+        "key": "sunsetAmethyst"
+      },
+      "settings": {
+        "magneticSnap": true,
+        "safeZoneMode": "none"
+      },
+      "live": {
+        "tickerEnabled": false,
+        "tickerText": "THÔNG BÁO: Kính mời các đại biểu quét mã QR để nhận văn kiện hội nghị trực tuyến.",
+        "tickerOffset": 0,
+        "countdownActive": false,
+        "countdownTarget": null
+      }
+    }
   }
 ]
