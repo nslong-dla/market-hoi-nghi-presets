@@ -351,5 +351,122 @@
         "countdownTarget": null
       }
     }
+  },
+  {
+    "id": "p_1793326819232",
+    "name": "Cục Thuế",
+    "state": {
+      "width": 1920,
+      "height": 1080,
+      "scale": 2,
+      "selectedLayer": "footerCard",
+      "locks": {
+        "logo": false,
+        "parentTitle": false,
+        "subTitle": false,
+        "divider": false,
+        "mainTitle": false,
+        "topicTitle": true,
+        "footerCard": false
+      },
+      "visibility": {
+        "parent": true,
+        "sub": true,
+        "main": true,
+        "topic": true,
+        "infoCard": true,
+        "divider": true,
+        "logo": true,
+        "qr": true,
+        "topicTitle": false
+      },
+      "content": {
+        "parentTitle": "BỘ TÀI CHÍNH",
+        "subTitle": "CỤC THUẾ",
+        "mainTitle": "RÀ SOÁT CÁC VƯỚNG MẮC TRONG CÔNG TÁC QUẢN LÝ THUẾ, KHAI NỘP THUẾ SỬ DỤNG ĐẤT PHI NÔNG NGHIỆP, GIẢI PHÁP XỬ LÝ VÀ NÂNG CAO HIỆU QUẢ TRONG THỜI GIAN TỚI",
+        "topicTitle": "Thực hiện họp rà soát theo Thông báo số 968/TB-CT ngày 30/10/2026 của Cục Thuế vào lúc 10h00 ngày 30-10-2026",
+        "timeText": "10:00 | Ngày 30 Tháng 10 Năm 2026",
+        "locationText": "Trực tuyến & Trực tiếp",
+        "qrText": "https://www.youtube.com/@tinhocungdung.official?sub_confirmation=1",
+        "qrLabel": "QUÉT TÀI LIỆU HỘI NGHỊ"
+      },
+      "typography": {
+        "mainTitleSize": 48,
+        "titleColorMode": "whiteSolid",
+        "titleLineHeight": 1.35,
+        "mainTitleAlign": "center",
+        "subTitleSize": 37,
+        "parentTitleSize": 35,
+        "topicSize": 20,
+        "topicTitleAlign": "center",
+        "infoSize": 25,
+        "dividerWidth": 180,
+        "logoSize": 100,
+        "logoAlign": "center",
+        "parentTitleColor": "#cbd5e1",
+        "subTitleColor": "#ffffff",
+        "topicTitleColor": "#ffb700",
+        "footerCardColor": "#ffffff"
+      },
+      "offsets": {
+        "logo": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTitle": {
+          "x": 0,
+          "y": 28
+        },
+        "subTitle": {
+          "x": 0,
+          "y": 50
+        },
+        "divider": {
+          "x": 0,
+          "y": 54
+        },
+        "mainTitle": {
+          "x": 0,
+          "y": -47
+        },
+        "topicTitle": {
+          "x": 0,
+          "y": -54
+        },
+        "footerCard": {
+          "x": 0,
+          "y": -24
+        }
+      },
+      "fx": {
+        "horizon": true,
+        "beam": true,
+        "matrix": true,
+        "stardust": true,
+        "corners": true,
+        "intensity": 1
+      },
+      "theme": {
+        "name": "3. Đỏ Hồng Ngọc Đỉnh Cao",
+        "bgColor1": "#260207",
+        "bgColor2": "#590715",
+        "bgColor3": "#8c0f24",
+        "accentColor": "#fef08a",
+        "accentColor2": "#fb7185",
+        "textSecondary": "#fecdd3",
+        "key": "crimsonVibrant"
+      },
+      "settings": {
+        "magneticSnap": true,
+        "safeZoneMode": "none"
+      },
+      "live": {
+        "tickerEnabled": false,
+        "tickerText": "THÔNG BÁO: Kính mời các đại biểu quét mã QR để nhận văn kiện hội nghị trực tuyến.",
+        "tickerOffset": 0,
+        "countdownActive": false,
+        "countdownTarget": null
+      }
+    }
   }
 ]
